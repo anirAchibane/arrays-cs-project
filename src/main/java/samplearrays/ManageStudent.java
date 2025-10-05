@@ -1,8 +1,5 @@
 package samplearrays;
 
-import java.util.Arrays;
-import java.util.Comparator;
-
 public class ManageStudent {
 
     // 2) Find the Oldest Student
